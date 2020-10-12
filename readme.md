@@ -41,9 +41,9 @@ The composite POM is
  at Maven Central. Note that the artifactId has become Camel Case from release 2.1.x onwards.
  
  There are also separate POMs for the various modules. The module structure is illustrated below
- under [Build from Source](#bfs).
+ce](#bfs).
   
- Snapshot builds at [Sonatype OSS](https://oss.sonatype.org/content/groups/public/).
+ Snapshot buipe OSS](https://oss.sonatype.org/content/groups/public/).
 
 ## Java Version
 
